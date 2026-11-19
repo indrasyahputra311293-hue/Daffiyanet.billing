@@ -165,3 +165,27 @@ Connecting Digital Payments with Network Automation.
 Made with ❤️ in Indonesia.
 
 </div>
+
+🌐 Live Demo
+
+Ingin mencoba Daffiyanet Billing?
+
+Kami menyediakan akses demo untuk mencoba fitur dan tampilan sistem billing RT/RW Net.
+
+🚀 Demo Application:
+Coming Soon
+
+👤 Demo Account:
+Username: demo
+
+Password: Akan disediakan setelah server demo aktif.
+
+📌 Catatan:
+
+- Menggunakan database khusus demo.
+- Tidak terhubung ke pelanggan asli.
+- Tidak dapat mengubah konfigurasi MikroTik produksi.
+- Transaksi pembayaran hanya simulasi.
+- Data demo dapat direset secara berkala.
+
+Developed by Daffiyanet 🇮🇩
